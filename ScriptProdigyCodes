@@ -1,0 +1,31 @@
+//Level Change:
+_.player.data.level = 100;
+//Message: You can change 100 to anything you want! and also the ; at the end is optional to add... also the max you can set it to is 0-100 sadly );
+//Infinite Gold!?
+_.player.data.gold = Infinity;
+//Message: Yes, you can get Infinite Gold It is LEGIT guys, copy&paste that code down into the Console and it works! (P. S. the gold might set to zero within 1-5 days so i would suggest setting it to 9e+222 gold or something...)
+//Free Tower Steps!?
+_.player.data.tower = 100;
+//Message: Dont you hate having to step up and up the tower? Well here is a new Script that you can use at ANY TIME! And also there is no limit to the numbers! Yes, you can do NEGATIVE Tower Stages! Well kinda...
+//Free 34 Year Membership!? [STILL IN TESTING! v.0.0.1.]
+_.player.memberStartDate = 3/4/2021;
+_.player.memberEndDate = 3/4/2055;
+_.player.setMembership = true;
+//Message: I would suggest copy&pasting this code into the console the EXACT way how it is on this page... This may not work because it is still in testing though...
+//Starter Bundle [+ FREE MEMBERSHIP!]
+_.player.memberStartDate = 3/4/2021;
+_.player.memberEndDate = 3/4/2055;
+_.player.setMembership = true;
+_.player.starsEarned = 10000000000000
+_.player.data.gold = 9e+99;
+_.player.data.bountyScore = 999
+//Win Bundle
+_.player.data.win = Infinity
+_.player.data.loss = 0.000001
+//Immortal..?
+_.player.immortal = true //I dont even know what this does...
+//DAILY QUESTION OVELOAD!!! [STILL IN TESTING!!]
+_.player.dailyQuestions = 1000;
+
+
+
