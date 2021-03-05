@@ -12,7 +12,7 @@ _.player.memberStartDate = 3/4/2021;
 _.player.memberEndDate = 3/4/2055;
 _.player.setMembership = true;
 //Message: I would suggest copy&pasting this code into the console the EXACT way how it is on this page... This may not work because it is still in testing though...
-//Starter Bundle [+ FREE MEMBERSHIP!]
+//Starter to Insta-Pro Bundle [+ FREE MEMBERSHIP!]
 _.player.memberStartDate = 3/4/2021;
 _.player.memberEndDate = 3/4/2055;
 _.player.setMembership = true;
@@ -26,6 +26,18 @@ _.player.data.loss = 0.000001
 _.player.immortal = true //I dont even know what this does...
 //DAILY QUESTION OVELOAD!!! [STILL IN TESTING!!]
 _.player.dailyQuestions = 1000;
+//OMEGA BUNDLE!!!
+_.player.memberStartDate = 3/4/2021;
+_.player.memberEndDate = 3/4/2055;
+_.player.setMembership = true;
+_.player.starsEarned = 1000000000000000000000000
+_.player.data.gold = 9e+99;
+_.player.data.bountyScore = 999
+_.player.immortal = true
+_.player.data.win = Infinity
+_.player.data.loss = 0.000001
+_.player.data.level = 100;
+//MORE COMING SOON!!
 
 
 
